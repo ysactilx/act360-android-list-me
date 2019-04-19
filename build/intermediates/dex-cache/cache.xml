@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\dell\AndroidStudioProjects\yipl-android-list-me-master\act360-android-list-me\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\yipl-android-list-me-master\act360-android-list-me\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_5bf35e23a31a786e93b54f9814a0b8d83c41471b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dell\AndroidStudioProjects\yipl-android-list-me-master\act360-android-list-me\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\yipl-android-list-me-master\act360-android-list-me\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_fce5b30571c9fb13074de2a04794982e054ed624.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dell\AndroidStudioProjects\yipl-android-list-me-master\act360-android-list-me\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\yipl-android-list-me-master\act360-android-list-me\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_aa41de2d2ea865503b39d8a326f5edc472a2ba09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dell\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.5.0\1c96fc5d0230f57d36cd09e2541d10829a3352a7\converter-gson-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1c96fc5d0230f57d36cd09e2541d10829a3352a7">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\yipl-android-list-me-master\act360-android-list-me\app\build\intermediates\pre-dexed\debug\converter-gson-2.5.0_3b8cf82edc42c018b88694b48a14b98807665acb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dell\AndroidStudioProjects\yipl-android-list-me-master\act360-android-list-me\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\yipl-android-list-me-master\act360-android-list-me\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_d2ca9e624076128f10e52473e5df4a0b51e511b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dell\AndroidStudioProjects\yipl-android-list-me-master\act360-android-list-me\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\yipl-android-list-me-master\act360-android-list-me\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_c9732b68ba84408f1dc0f9d63f7bb00486c8b94a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dell\AndroidStudioProjects\yipl-android-list-me-master\act360-android-list-me\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\yipl-android-list-me-master\act360-android-list-me\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_b71c70bd3419e5a3fd8ebfe0ddf6bcae2750303d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dell\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\yipl-android-list-me-master\act360-android-list-me\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_dc36c6bfb9de6afa9cd3587e661aa7109474dc46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dell\AndroidStudioProjects\yipl-android-list-me-master\act360-android-list-me\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\yipl-android-list-me-master\act360-android-list-me\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_7d3d4f147a65b32d1bee1d0cb736a226658a64c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dell\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.15.0\bc28b5a964c8f5721eb58ee3f3c47a9bcbf4f4d8\okio-1.15.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bc28b5a964c8f5721eb58ee3f3c47a9bcbf4f4d8">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\yipl-android-list-me-master\act360-android-list-me\app\build\intermediates\pre-dexed\debug\okio-1.15.0_a8d55ddd5a9417a99cd5fd503cf216cadde97560.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dell\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.2\3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf\gson-2.8.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\yipl-android-list-me-master\act360-android-list-me\app\build\intermediates\pre-dexed\debug\gson-2.8.2_53d053868d3707bfff4ab071ac3a2dd15d987648.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dell\AndroidStudioProjects\yipl-android-list-me-master\act360-android-list-me\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\yipl-android-list-me-master\act360-android-list-me\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.0.1_78b18b55ecf25a86bfc67f0cbeb32fbbc6cb645e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dell\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.5.0\713ce36037bf24a76a3974c05cb85c3f754b1cc3\retrofit-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="713ce36037bf24a76a3974c05cb85c3f754b1cc3">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\yipl-android-list-me-master\act360-android-list-me\app\build\intermediates\pre-dexed\debug\retrofit-2.5.0_f2e36551247895ea5e0cca62297edc159f333d2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dell\AndroidStudioProjects\yipl-android-list-me-master\act360-android-list-me\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\yipl-android-list-me-master\act360-android-list-me\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_e93ac517f1494ea23b0419eb66697eec86de5082.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dell\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.12.0\b36f4a04584c0fb0d9af2d3401cdff8dacb1ea54\okhttp-3.12.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b36f4a04584c0fb0d9af2d3401cdff8dacb1ea54">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\yipl-android-list-me-master\act360-android-list-me\app\build\intermediates\pre-dexed\debug\okhttp-3.12.0_fbb2347943e2b00d3df1f7db71048c282c304d0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dell\AndroidStudioProjects\yipl-android-list-me-master\act360-android-list-me\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\yipl-android-list-me-master\act360-android-list-me\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_d3b86e8d65e76ca4c6cc8b40e917eac17e80d16f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dell\AndroidStudioProjects\yipl-android-list-me-master\act360-android-list-me\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\yipl-android-list-me-master\act360-android-list-me\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_d8167e268c90c5ad1bdf62d522ed902ff9544e56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dell\AndroidStudioProjects\yipl-android-list-me-master\act360-android-list-me\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\yipl-android-list-me-master\act360-android-list-me\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_3c26150d18e8b5db5840dc371e1c4acd2787f21d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dell\AndroidStudioProjects\yipl-android-list-me-master\act360-android-list-me\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\yipl-android-list-me-master\act360-android-list-me\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_b82285a51b97716671c71316185e7a495cc241b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dell\AndroidStudioProjects\yipl-android-list-me-master\act360-android-list-me\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\yipl-android-list-me-master\act360-android-list-me\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_c3882c01f5f5ba9403717c506d7a8b602c632f8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dell\AndroidStudioProjects\yipl-android-list-me-master\act360-android-list-me\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\yipl-android-list-me-master\act360-android-list-me\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_aad8c1c27038582af60bb14056eca175f4562955.jar" />
+    </item>
+
+</items>
